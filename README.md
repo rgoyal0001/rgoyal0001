@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raman Goyal</h1>
 <h3 align="center">An Aspiring full stack web developer from Hisar, Haryana (India)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raman186&label=Profile%20views&color=0e75b6&style=flat" alt="raman186" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rgoyal0001&label=Profile%20views&color=0e75b6&style=flat" alt="rgoyal0001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raman186" alt="raman186" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgoyal0001" alt="rgoyal0001" /></a> </p>
 
 - 🌱 I’m currently learning **Mern Stack**
 
@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/raman_186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/raman_186" height="30" width="40" /></a>
+<a href="https://codepen.io/r_goyal0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="r_goyal0001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raman-goyal-97b959150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raman-goyal-97b959150/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/raman186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="raman186" height="30" width="40" /></a>
+<a href="https://codesandbox.com/r_goyal0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="r_goyal0001" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/raman.goyal.3382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raman.goyal.3382" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/r_goyal0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/r_goyal0001/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/raman_186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/raman_186/" height="30" width="40" /></a>
+<a href="https://instagram.com/r_goyal0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_goyal0001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/r_goyal0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_goyal0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/rgoyal0001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/rgoyal0001" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raman186&show_icons=true&locale=en&layout=compact" alt="raman186" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgoyal0001&show_icons=true&locale=en&layout=compact" alt="rgoyal0001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raman186&show_icons=true&locale=en" alt="raman186" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rgoyal0001&show_icons=true&locale=en" alt="rgoyal0001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman186&" alt="raman186" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rgoyal0001&" alt="rgoyal0001" /></p>
